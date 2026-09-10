@@ -8,7 +8,7 @@ permalink: /projects/
 Python SDK normalising roadworks and street works data from 130+ official
 sources. Published on PyPI.
 
-## [iHAMS](/projects/ihams/)
+## [IHAMS](/projects/ihams/)
 Implementing a highway asset management system at Durham County Council,
 including a Microsoft 365 Copilot Studio agent built for Alloy
 administrators.
