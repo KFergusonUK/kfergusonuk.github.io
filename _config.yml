@@ -16,6 +16,7 @@ minima:
 header_pages:
   - about.md
   - projects.md
+  - awards.md
 
 # Footer / social links
 github_username: KFergusonUK

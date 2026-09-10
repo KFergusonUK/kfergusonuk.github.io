@@ -14,6 +14,10 @@ AI-native asset management and condition reporting engine for highways.
 ## [Advanced AI Rights & Responsibilities Charter](/projects/ai-charter/)
 Governance framework for advanced AI systems, with permanent DOIs.
 
+## [Automation Dividend Framework](/projects/adf/)
+A policy framework levying a share of automation savings to fund a universal
+dividend, specified down to rates, exemptions and anti-avoidance rules.
+
 ## [Shadowband](/projects/shadowband/)
 Android app for paranormal investigation, including low-frequency audio
 detection. Shipped, maintained, approaching 7,000 downloads at 4.2 stars.
