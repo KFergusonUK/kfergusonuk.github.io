@@ -43,6 +43,23 @@ An Android app built and shipped solo — approaching 7,000 downloads with a
 
 ---
 
+## Work adopted beyond its original scope
+
+- **Performance Based Inspection calculation tool** — published, then adopted
+  by the DfT as a national template now used by English highway authorities
+  and utilities
+- **One.Network API roadworks reporting** — designed and built, since
+  replicated by more than 20 highway authorities
+- **Street Works Sentinel Suite** — a free application built on Street
+  Manager data to automate FPN and KPI generation, available to authorities
+  and utilities alike
+- **DTF 8.1 / SR101 validation tool** — corrects the structural faults in
+  DTF 8.1 exports that cause GeoPlace SR101 validation failures
+- **[streetworksai.co.uk](https://streetworksai.co.uk)** — one of the
+  sector's first AI chatbots for street works guidance, built independently
+
+---
+
 ## Recognition
 
 - **GeoPlace Exemplar Award — Platinum**, every year from 2022 to 2026

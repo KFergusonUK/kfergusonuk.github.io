@@ -36,6 +36,14 @@ National recognition for applied technology in the highways sector.
 
 ---
 
+## NWG Innovation Festival — Sprint winner, 2023 and 2025
+Northumbrian Water Group
+
+Won the innovation sprint competition twice, working in cross-functional
+teams on real utility and infrastructure problems.
+
+---
+
 ## Innovation and Change Award — nominated 2022 and 2023
 Durham County Council · November 2022, November 2023
 

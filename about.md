@@ -11,14 +11,15 @@ post is Road & Street Works Systems Supervisor.
 
 ## Roles
 
-- **Durham County Council** — iHAMS Project Manager
-- **GeoPlace** — Technical Project Lead
-- **Durham County Council** — Road & Street Works Systems Supervisor (substantive post)
-- **JAG(UK)** — Vice Chair
-- **NEJAG** — Chair
-- **NEHAUC** — Co-Chair
+- **Durham County Council** — iHAMS Project Manager, since 2026
+- **GeoPlace** — Technical Project Lead, Collaboration Tool, since 2026
+- **Durham County Council** — Road & Street Works Systems Supervisor, since 2020 (substantive post)
+- **JAG(UK)** — Vice Chair, since 2025
+- **NEJAG** — Chair, since 2023
+- **NEHAUC** — Co-Chair, since 2023
+- **DfT Street Manager Governance Group** — member, since 2020
 - **NUAR** — Senior Stakeholder Advisory Group member
-- **Street Works Code of Practice** — review contributor
+- **Street Works Code of Practice** — 2026 review contributor
 
 ## What I work on
 
