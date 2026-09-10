@@ -27,5 +27,5 @@ improve public sector services.
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/...
+- LinkedIn: https://www.linkedin.com/in/kevin-f-341a5117b/
 - GitHub: https://github.com/KFergusonUK
