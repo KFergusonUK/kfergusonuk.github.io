@@ -9,14 +9,14 @@ permalink: /projects/streetworks-sdk/
 
 ## The problem
 
-Roadworks and street works data in the UK is published by hundreds of
-separate authorities, in inconsistent formats, on endpoints that change.
-Anyone wanting a national picture has to write and maintain bespoke
+Roadworks and street works data is published by hundreds of
+separate authorities around the world, in inconsistent formats, on endpoints that change.
+Anyone wanting a wider picture has to write and maintain bespoke
 handling for each one.
 
 ## What it does
 
-StreetWorks SDK normalises data from over 130 official sources into one
+StreetWorks SDK normalises data from over 130 official sources, from around the world, into one
 consistent model, so the source of a record stops mattering to the code
 consuming it.
 
@@ -47,5 +47,4 @@ pip install streetworks
 
 ## Status
 
-Current version 0.4.0. Built with [Chris Carlon](https://github.com/).
-<!-- ^ swap in Chris's actual profile URL -->
+Current version 0.10.0. 
