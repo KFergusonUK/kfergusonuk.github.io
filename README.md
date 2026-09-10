@@ -11,7 +11,7 @@ data and technology initiatives within highways and transportation.
 A framework that normalises roadworks and streetworks data from
 over 130 official sources worldwide.
 
-### IMAMS
+### IHAMS
 Project management and digital transformation work supporting
 highways operations.
 
