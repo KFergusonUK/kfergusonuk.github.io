@@ -4,10 +4,18 @@ title: Shadowband
 permalink: /projects/shadowband/
 ---
 
-*Android · Kotlin*
+*Android · Kotlin · shipped*
+
+**Approaching 7,000 downloads · 4.2 average rating**
 
 An Android app for paranormal investigation — and, less glamorously, an
-excuse to do real signal processing work on a phone.
+excuse to do real signal processing work on a phone. Built, shipped and
+maintained solo, with an active user base and updates driven by real
+feedback.
+
+<!-- Link the Play Store listing here. The download count and rating are
+     the point of this page: they're independently verifiable, which
+     almost nothing else on a portfolio is. -->
 
 ## Recent work
 

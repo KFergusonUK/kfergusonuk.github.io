@@ -15,7 +15,7 @@ minima:
 # These appear in the top nav bar, in this order.
 header_pages:
   - about.md
-  - projects/index.md
+  - projects.md
 
 # Footer / social links
 github_username: KFergusonUK
