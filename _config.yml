@@ -9,8 +9,8 @@ description: >-
 url: "https://kfergusonuk.github.io"
 
 theme: minima
-minima:
-  skin: dark          # try: classic, dark, auto, solarized
+# Note: minima's "skin" option needs minima 3.x, which GitHub Pages does
+# not support. Styling overrides live in assets/css/style.scss instead.
 
 # These appear in the top nav bar, in this order.
 header_pages:

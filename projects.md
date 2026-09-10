@@ -21,3 +21,11 @@ dividend, specified down to rates, exemptions and anti-avoidance rules.
 ## [Shadowband](/projects/shadowband/)
 Android app for paranormal investigation, including low-frequency audio
 detection. Shipped, maintained, approaching 7,000 downloads at 4.2 stars.
+
+---
+
+## Experiments
+
+### [UK Tornado Risk Mapping](/projects/tornado-risk/)
+An open-data risk model for a country with a high tornado rate per unit
+area and no dedicated tool. Paused, not abandoned.

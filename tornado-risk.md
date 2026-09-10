@@ -4,7 +4,7 @@ title: UK Tornado Risk Mapping
 permalink: /projects/tornado-risk/
 ---
 
-*Exploratory · FastAPI · PostGIS · React · Leaflet*
+*An experiment. FastAPI, PostGIS, React and Leaflet.*
 
 The UK has one of the highest tornado rates per unit area in the world and
 no dedicated AI-driven risk mapping tool. This is an attempt at one, built
@@ -20,4 +20,6 @@ Copernicus Climate Data Store, and Blitzortung lightning data.
 
 ## Status
 
-Early. Data foundation stage.
+Paused at the data foundation stage. I come back to this when I have the
+time for it — it's here because I think the gap is real and worth someone
+filling, not because it's finished.
