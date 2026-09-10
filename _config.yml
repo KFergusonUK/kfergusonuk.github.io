@@ -1,0 +1,26 @@
+# Site-wide settings. If you change this file, GitHub may take a
+# couple of minutes longer than usual to rebuild the site.
+
+title: Kevin Ferguson
+tagline: Highways · Data · AI
+description: >-
+  Road and street works systems, national data standards, and applied AI
+  in the public sector. Projects, writing and open source by Kevin Ferguson.
+url: "https://kfergusonuk.github.io"
+
+theme: minima
+minima:
+  skin: dark          # try: classic, dark, auto, solarized
+
+# These appear in the top nav bar, in this order.
+header_pages:
+  - about.md
+  - projects/index.md
+
+# Footer / social links
+github_username: KFergusonUK
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
