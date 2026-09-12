@@ -30,13 +30,13 @@ get missed, and where audit trails break down.
      still embed normally, they just don't appear in search or on your
      channel. -->
 
-<!--
+
 <div class="video">
-  <iframe src="https://www.youtube-nocookie.com/embed/VIDEO_ID_HERE"
+  <iframe src="https://www.youtube-nocookie.com/embed/HcgdsDdnJcQ" 
           title="AMCORE demo — natural language control of a highway asset management system"
           frameborder="0" allowfullscreen></iframe>
 </div>
--->
+
 
 <!-- IMAGE: two or three stills for readers who won't play a video.
      The map view with defects, and the natural-language command in action,
