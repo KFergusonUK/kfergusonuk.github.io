@@ -10,7 +10,7 @@ permalink: /projects/streetworks-sdk/
 <!-- IMAGE: the world map. Save it as assets/streetworks/world-map.png
      and uncomment. This is the single most persuasive thing on the page —
      it should be the first thing a visitor sees. -->
-<!-- ![World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/posts/streetworks-sdk/world-map.png) -->
+![World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/posts/streetworks-sdk/world-map.png)
 *A partial live pull through the SDK, August 2026. Each blue dot is a works site.*
 
 ## The problem
@@ -82,7 +82,7 @@ as its CRS, rather than assuming two sources agree because they happen to.
 
 <!-- IMAGE: the common model diagram.
      assets/streetworks/common-model.png -->
-<!-- ![Diagram showing native provider schemas resolving to shared Works, Site and Street shapes](/assets/posts/streetworks-sdk/common-model.png) -->
+![Diagram showing native provider schemas resolving to shared Works, Site and Street shapes](/assets/posts/streetworks-sdk/common-model.png)
 
 Full detail in the [common model
 docs](https://github.com/KFergusonUK/StreetWorks-SDK/blob/main/docs/concepts/common-model.md).
@@ -96,7 +96,7 @@ NUAR API, and the UK Police Crime API.
 
 <!-- IMAGE: the provider matrix.
      assets/streetworks/provider-matrix.png -->
-<!-- ![Summary provider matrix showing coverage by territory](/assets/posts/streetworks-sdk/provider-matrix.png) -->
+![Summary provider matrix showing coverage by territory](/assets/posts/streetworks-sdk/provider-matrix.png)
 
 The full provider-by-provider matrix, including state-by-state and
 province-by-province breakdowns for the USA, Canada, Germany and France,
@@ -119,7 +119,7 @@ be genuinely rare.
 
 <!-- IMAGE: worker safety / abuse risk map.
      assets/streetworks/worker-safety-map.png -->
-<!-- ![Map overlaying roadworks sites with historic crime data](/assets/posts/streetworks-sdk/worker-safety-map.png) -->
+![Map overlaying roadworks sites with historic crime data](/assets/posts/streetworks-sdk/worker-safety-map.png)
 
 ## Full write-up
 
