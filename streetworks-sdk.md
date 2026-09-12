@@ -7,10 +7,10 @@ permalink: /projects/streetworks-sdk/
 *Python · open source, MIT licensed · [PyPI](https://pypi.org/project/streetworks/) ·
 [GitHub](https://github.com/KFergusonUK/StreetWorks-SDK)*
 
-<!-- IMAGE: the world map. Save it as assets/projects/streetworks/world-map.png
+<!-- IMAGE: the world map. Save it as assets/streetworks/world-map.png
      and uncomment. This is the single most persuasive thing on the page —
      it should be the first thing a visitor sees. -->
-<!-- ![World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/projects/streetworks/world-map.png) -->
+<!-- ![World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/posts/streetworks-sdk/world-map.png) -->
 *A partial live pull through the SDK, August 2026. Each blue dot is a works site.*
 
 ## The problem
@@ -81,8 +81,8 @@ named provider's stated value with its vertical datum labelled as carefully
 as its CRS, rather than assuming two sources agree because they happen to.
 
 <!-- IMAGE: the common model diagram.
-     assets/projects/streetworks/common-model.png -->
-<!-- ![Diagram showing native provider schemas resolving to shared Works, Site and Street shapes](/assets/projects/streetworks/common-model.png) -->
+     assets/streetworks/common-model.png -->
+<!-- ![Diagram showing native provider schemas resolving to shared Works, Site and Street shapes](/assets/posts/streetworks-sdk/common-model.png) -->
 
 Full detail in the [common model
 docs](https://github.com/KFergusonUK/StreetWorks-SDK/blob/main/docs/concepts/common-model.md).
@@ -95,8 +95,8 @@ necessary companion — plus Digital Traffic Regulation Orders, the modelled
 NUAR API, and the UK Police Crime API.
 
 <!-- IMAGE: the provider matrix.
-     assets/projects/streetworks/provider-matrix.png -->
-<!-- ![Summary provider matrix showing coverage by territory](/assets/projects/streetworks/provider-matrix.png) -->
+     assets/streetworks/provider-matrix.png -->
+<!-- ![Summary provider matrix showing coverage by territory](/assets/posts/streetworks-sdk/provider-matrix.png) -->
 
 The full provider-by-provider matrix, including state-by-state and
 province-by-province breakdowns for the USA, Canada, Germany and France,
@@ -118,8 +118,8 @@ legal traffic orders, all reachable through one interface. That turns out to
 be genuinely rare.
 
 <!-- IMAGE: worker safety / abuse risk map.
-     assets/projects/streetworks/worker-safety-map.png -->
-<!-- ![Map overlaying roadworks sites with historic crime data](/assets/projects/streetworks/worker-safety-map.png) -->
+     assets/streetworks/worker-safety-map.png -->
+<!-- ![Map overlaying roadworks sites with historic crime data](/assets/posts/streetworks-sdk/worker-safety-map.png) -->
 
 ## Full write-up
 
