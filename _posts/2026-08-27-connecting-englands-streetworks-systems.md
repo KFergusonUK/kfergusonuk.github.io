@@ -11,7 +11,7 @@ excerpt: "The StreetWorks SDK now pulls from over 130 official sources worldwide
      Every image also needs alt text for screen readers — replace the
      bracketed text in each. -->
 
-<!-- ![World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/posts/streetworks-sdk/world-map.png) -->
+[World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/posts/streetworks-sdk/world-map.png)
 *StreetWorks SDK — roadworks world map, partial live pull, 26 August 2026. Blue dots are works sites.*
 
 > "Make a Streetworks (and roadworks) Software Development Kit (SDK) that makes connecting to England's systems — Street Manager, NSG, D-TRO, National Highways, etc. — easier, and maybe even pulls in data from across the UK... Europe... or even the world, puts it through a common model, and makes it consistent to use. Just link to each country's version of Street Manager. How hard can it be…"
@@ -94,7 +94,7 @@ Each `Works` carries its sites, every field in your own terms — `works_type`, 
 
 ## The common model
 
-<!-- ![Diagram of the common model, showing native provider schemas resolving to shared Works, Site and Street shapes](/assets/posts/streetworks-sdk/common-model.png) -->
+[Diagram of the common model, showing native provider schemas resolving to shared Works, Site and Street shapes](/assets/posts/streetworks-sdk/common-model.png)
 
 More on the common model is in the [repository docs](https://github.com/KFergusonUK/StreetWorks-SDK/blob/main/docs/concepts/common-model.md).
 
@@ -122,7 +122,7 @@ And just like the roadworks side, the gazetteer side has its own common model �
 
 Once a street register gives you real geometry, you can do more than join it to roadworks. One of the worked examples in the repository takes Great Britain's OS Open USRN street centrelines, densifies each one, and drapes it over a real elevation model — here, the Environment Agency's LIDAR Composite DTM — to produce a 3D surface of the streets following the actual terrain. This is the Durham peninsula:
 
-<!-- ![3D mesh of Durham peninsula street centrelines draped over a LIDAR terrain model](/assets/posts/streetworks-sdk/durham-peninsula-3d.png) -->
+[3D mesh of Durham peninsula street centrelines draped over a LIDAR terrain model](/assets/posts/streetworks-sdk/durham-peninsula-3d.png)
 *OS Open USRN street centrelines draped over the Environment Agency's LIDAR Composite DTM (1m) of the Durham peninsula — a worked example from the repository, not a feature of the installed package. The mesh exports to STL, so you can 3D print it.*
 
 A couple of things about this matter more than the picture. First, it's built with no heavy geospatial stack — no GDAL, no rasterio — just a hand-rolled raster decoder over the same httpx-and-nothing-else approach as the rest of the SDK.
@@ -133,7 +133,7 @@ That's the same discipline the rest of the SDK applies horizontally — never si
 
 ## Provider matrix
 
-<!-- ![Summary provider matrix showing coverage by territory across roadworks, gazetteer, TTRO, NUAR and other columns](/assets/posts/streetworks-sdk/provider-matrix.png) -->
+[Summary provider matrix showing coverage by territory across roadworks, gazetteer, TTRO, NUAR and other columns](/assets/posts/streetworks-sdk/provider-matrix.png)
 *The TTRO, NUAR and Other columns are effectively UK-only today (D-TRO, NUAR model, Police / DataVIA), hence the gaps elsewhere.*
 
 The full provider-by-provider matrix — including the state-by-state and province-by-province breakdown for the USA, Canada, Germany and France, and the specific data source behind every cell — lives in the [repository docs](https://github.com/KFergusonUK/StreetWorks-SDK).
@@ -142,7 +142,7 @@ The full provider-by-provider matrix — including the state-by-state and provin
 
 Working through each zone, it struck me just how differently each area handles roadworks data. Some systems are very mature and clearly working well; others, perhaps less so.
 
-<!-- ![Comparison of data landscape maturity across regions](/assets/posts/streetworks-sdk/data-landscapes.png) -->
+[Comparison of data landscape maturity across regions](/assets/posts/streetworks-sdk/data-landscapes.png)
 
 ### USA and Canada
 
@@ -182,7 +182,7 @@ I know we already covered Europe, but I did enjoy looking at the Nordic data. No
 
 ## A Section 50 aside
 
-<!-- ![Screenshot of an example Section 50 application page built against the Street Manager API](/assets/posts/streetworks-sdk/section-50.png) -->
+[Screenshot of an example Section 50 application page built against the Street Manager API](/assets/posts/streetworks-sdk/section-50.png)
 *The top half of an example Section 50 application page, for use with the Street Manager API.*
 
 I included this as a "why not" to provoke a little discussion, because the current Section 50 process is, in my opinion, somewhat outdated. Street Manager handles Section 50s, so why not use it as a Section 50 management platform? The free-text fields aren't exposed in the open data publication, so why not use them to store webpage-calculated bonds and contacts?
@@ -191,7 +191,7 @@ This isn't a recommendation, to be clear — just an observation that we have a 
 
 ## Worker safety and road worker abuse
 
-<!-- ![Map showing roadworks sites overlaid with historic crime data to indicate abuse risk](/assets/posts/streetworks-sdk/worker-safety-map.png) -->
+[Map showing roadworks sites overlaid with historic crime data to indicate abuse risk](/assets/posts/streetworks-sdk/worker-safety-map.png)
 *Road worker safety and abuse risk map example, from the [repository examples](https://github.com/KFergusonUK/StreetWorks-SDK/blob/main/docs/examples.md).*
 
 Some might be slightly confused as to why I've included the UK Police Crime API in a streetworks SDK, but I see the two as often sadly interlinked. Road crews are often subject to verbal and sometimes physical assault. If we're able to use the data to help determine whether a worksite sits in an area where additional safety measures might be appropriate, based on historic crime levels, then while it won't guarantee nothing happens, perhaps measures could be put in place to reduce the likelihood of an incident — visible camera presence, a change of working hours.
@@ -206,7 +206,7 @@ At the time there were 18 active streetworks in Durham City — quite a busy day
 
 "Busy" really is relative.
 
-<!-- ![Side-by-side comparison of active works in Durham City and Paris](/assets/posts/streetworks-sdk/durham-vs-paris.png) -->
+[Side-by-side comparison of active works in Durham City and Paris](/assets/posts/streetworks-sdk/durham-vs-paris.png)
 
 ## Code examples
 
@@ -262,7 +262,7 @@ The SDK isn't really the end product. It's the plumbing underneath whatever come
 - **Automated decision-making** — feed standardised works data into systems that need to react to changes in the road network
 - Anything else someone hasn't thought of yet
 
-<!-- ![Autonomous vehicle rerouting example generated from SDK data](/assets/posts/streetworks-sdk/av-reroute.png) -->
+[Autonomous vehicle rerouting example generated from SDK data](/assets/posts/streetworks-sdk/av-reroute.png)
 *An AV rerouting example from the [repository](https://github.com/KFergusonUK/StreetWorks-SDK/blob/main/docs/examples.md) — not perfect, but a nice visual of what's possible.*
 
 And that's really the point. I don't want to decide what StreetWorks-SDK is for. I want to make the data easy enough to use that other people can decide.
