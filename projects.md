@@ -23,15 +23,12 @@ Governance framework for advanced AI systems, with permanent DOIs.
 A policy framework levying a share of automation savings to fund a universal
 dividend, specified down to rates, exemptions and anti-avoidance rules.
 
+## [Weather Hazard Map](/projects/weather-hazard-map/)
+A live multi-layer UK map of rainfall, river levels, weather station feeds,
+wind and user-added hazards, built on open data — with tornado risk as the
+intended next layer.
+
 ## [Shadowband](/projects/shadowband/)
 Android app for paranormal investigation, including low-frequency audio
 detection. Shipped, maintained, approaching 7,000 downloads at 4.2 stars
 [on Google Play](https://play.google.com/store/apps/details?id=com.ferguson.shadowband).
-
----
-
-## Experiments
-
-### [UK Tornado Risk Mapping](/projects/tornado-risk/)
-An open-data risk model for a country with a high tornado rate per unit
-area and no dedicated tool. Paused, not abandoned.
