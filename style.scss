@@ -134,3 +134,29 @@ code {
   width: 100%; height: 100%;
   border: 0;
 }
+
+/* ---- Award images ------------------------------------------------ */
+
+.award-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: .9rem;
+  margin: 1.6rem 0 2rem;
+}
+.award-grid img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #e3e6ea;
+  border-radius: 3px;
+  display: block;
+}
+
+.award-banner {
+  max-width: 420px;
+  width: 100%;
+  height: auto;
+  border: 1px solid #e3e6ea;
+  border-radius: 3px;
+  margin: 1.2rem 0;
+  display: block;
+}

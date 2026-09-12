@@ -8,28 +8,39 @@ permalink: /projects/ihams/
 since 2026*
 
 Leading the implementation of iHAMS, coordinating cross-departmental
-requirements, supplier engagement and delivery planning, with
-responsibility for governance, risk and stakeholder reporting.
+requirements, supplier engagement and delivery planning, with responsibility
+for governance, risk and stakeholder reporting.
 
 I'm also on the corporate working group overseeing a commissioned
 service-level architecture review of digital systems across Neighbourhoods
 and Environment, including where AI and automation could realistically be
 applied.
 
-## Copilot Studio agent for Alloy administrators
+## A Copilot Studio agent for Alloy administrators
 
-Built a Microsoft 365 Copilot Studio agent to support Causeway Alloy
-administrators.
+Alongside the implementation work I built a Microsoft 365 Copilot Studio
+agent to support Causeway Alloy administrators.
 
-<!-- Fill this in — it's the most concrete deliverable on the page:
-     - what administrators were struggling with before it existed
-     - what the agent does, and what it's grounded on
-     - how many people use it, and whether it changed anything measurable
-     A named tool you built and shipped inside a local authority is
-     unusual enough to be worth three or four sentences. -->
+The problem it solves is a familiar one. The knowledge needed to administer
+a system like this is spread across supplier documentation, external
+websites, internal guides and accumulated local notes — and finding the
+relevant paragraph takes longer than acting on it once you have it. The
+agent removes the search step: you ask the question and get the answer,
+rather than working out which document to open first.
 
-## What I've learned
+### Grounding it
 
-<!-- Worth writing honestly. Implementation projects teach you more about
-     organisations than about software, and saying so is more interesting
-     than a list of responsibilities. -->
+The agent draws on external websites and uploaded files. The interesting
+part was the local knowledge — years of internal guidance and notes that
+existed but were impractical to search. I used AI to compress that material
+down to something that fits usefully in the context window, so the agent
+answers from how we actually work here, not just from the supplier's
+documentation.
+
+
+
+### In use
+
+I now have 2 other technical staff, and 1 manager using the agent, so it does work, and it's improved system learning significantly, but, as ever, more to add :)
+
+

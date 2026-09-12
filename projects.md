@@ -13,6 +13,16 @@ Implementing a highway asset management system at Durham County Council,
 including a Microsoft 365 Copilot Studio agent built for Alloy
 administrators.
 
+## [Streets Collaboration Tool](/projects/collab-tool/)
+Helping works promoters cost permits, model collaboration savings and
+coordinate planned works. Built at GeoPlace; presented at the HAUC
+Convention 2026.
+
+## [Street Works Sentinel Suite](/projects/sentinel-suite/)
+Four free desktop tools helping authorities and utilities get more from
+Street Manager data — FPN detection, performance indicators, trend analysis
+and notice handling.
+
 ## [AMCORE](/projects/amcore/)
 AI-native asset management and condition reporting engine for highways.
 

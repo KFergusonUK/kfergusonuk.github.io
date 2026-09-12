@@ -21,6 +21,16 @@ post is Road & Street Works Systems Supervisor.
 - **NUAR** — Senior Stakeholder Advisory Group member
 - **Street Works Code of Practice** — 2026 review contributor
 
+## Speaking
+
+- **HAUC(UK) Convention 2026**, Manchester — the Streets Collaboration Tool,
+  presented with Christopher Carlon in the Innovating Data session, at the
+  convention marking HAUC(UK)'s 40th year
+
+<!-- Add others as they come up, and any earlier ones worth listing.
+     Chairing NEJAG and co-chairing NEHAUC presumably means you speak
+     fairly regularly — anything with a named audience belongs here. -->
+
 ## What I work on
 
 <!-- Two or three paragraphs in your own voice. Worth covering:

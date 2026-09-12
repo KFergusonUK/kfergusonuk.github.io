@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 # Kevin Ferguson
@@ -46,6 +46,12 @@ An Android app built and shipped solo — approaching 7,000 downloads with a
 
 ## Writing
 
+**[The future of street works: AI, automation and
+robotics](/2026/09/01/future-of-street-works.html)**
+Much of what we call future tech is already live. All of it rests on data
+quality, and on an unanswered question about who is responsible when an
+automated process gets it wrong.
+
 **[I set out to connect England's streetworks systems. I ended up mapping a
 third of the world's.](/2026/08/27/connecting-englands-streetworks-systems.html)**
 What building the StreetWorks SDK taught me about how differently countries
@@ -61,8 +67,8 @@ running a register.
   and utilities
 - **One.Network API roadworks reporting** — designed and built, since
   replicated by more than 20 highway authorities
-- **Street Works Sentinel Suite** — a free application built on Street
-  Manager data to automate FPN and KPI generation, available to authorities
+- **[Street Works Sentinel Suite](/projects/sentinel-suite/)** — four free
+  desktop tools built on Street Manager data, given to highway authorities
   and utilities alike
 - **DTF 8.1 / SR101 validation tool** — corrects the structural faults in
   DTF 8.1 exports that cause GeoPlace SR101 validation failures
