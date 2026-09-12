@@ -63,7 +63,7 @@ workflow breaks unless someone keeps up with it.
 
 ## Get it
 
-- [Download from GitHub](https://github.com/KFergusonUK/Sentinel_Suite)
+- [Sentinel Suite on GitHub](https://github.com/KFergusonUK/Sentinel_Suite)
 - [Guide and FAQs](https://github.com/KFergusonUK/Sentinel_Suite/blob/main/Guide.md)
 
 Most bar charts are clickable, and name lists can be double-clicked.

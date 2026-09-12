@@ -30,13 +30,15 @@ the street gazetteer, plus Highly Commended in 2022.
 ## The MJ Achievement Awards 2025 — Digital Transformation finalist
 June 2025
 
-<img src="/assets/awards/MJ-Awards-2025-Digital-Transformation-Finalist.jpg"
+<img src="/assets/awards/mj-awards-2025-digital-transformation-finalist.jpg"
      alt="The MJ Achievement Awards 2025 — Digital Transformation finalist"
      class="award-banner">
 
-<!-- One or two lines on what the entry was for. This is the most widely
-     recognised award on the page outside the highways sector, and right
-     now a reader can't tell what it recognised. -->
+Shortlisted for work with two other Street Manager specialists on making
+street works data usable by a far wider audience — walking users through the
+process of transforming Street Manager data, and streamlining how it's used
+across the sector. The accompanying webinar is on the
+[DfT's YouTube channel](https://youtu.be/nYAVf6DfUJA).
 
 ---
 
@@ -44,7 +46,7 @@ June 2025
 **DfT Special Recognition Awards, Best Use of Technology**
 Issued by LCRIG · October 2024
 
-<img src="/assets/awards/LCRIG-Strictly-Highways-BestUseOfTech-2024.png"
+<img src="/assets/awards/lcrig-strictly-highways-2024.png"
      alt="LCRIG Strictly Highways 2024 — Highly Commended, DfT Special Recognition Awards, Best Use of Technology, Durham County Council"
      class="award-banner">
 

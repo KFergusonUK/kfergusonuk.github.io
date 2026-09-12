@@ -160,3 +160,29 @@ code {
   margin: 1.2rem 0;
   display: block;
 }
+
+/* ---- Talk photos ------------------------------------------------- */
+
+.talk-photo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 3px;
+  margin: 1.4rem 0;
+  display: block;
+}
+
+/* ---- Pull quotes ------------------------------------------------- */
+
+blockquote {
+  border-left: 3px solid #d6dade;
+  padding-left: 1rem;
+  margin: 1.4rem 0 .4rem;
+  color: #3a4148;
+  font-style: normal;
+  letter-spacing: 0;
+}
+blockquote + p {
+  margin-top: 0;
+  font-size: .92rem;
+  color: #6a737d;
+}

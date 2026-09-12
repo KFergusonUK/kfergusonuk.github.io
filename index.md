@@ -47,7 +47,7 @@ An Android app built and shipped solo — approaching 7,000 downloads with a
 ## Writing
 
 **[The future of street works: AI, automation and
-robotics](/2026/09/01/future-of-street-works.html)**
+robotics](/2025/12/01/future-of-street-works.html)**
 Much of what we call future tech is already live. All of it rests on data
 quality, and on an unanswered question about who is responsible when an
 automated process gets it wrong.
@@ -62,14 +62,18 @@ running a register.
 
 ## Work adopted beyond its original scope
 
-- **Performance Based Inspection calculation tool** — published, then adopted
-  by the DfT as a national template now used by English highway authorities
-  and utilities
+- **[Performance Based Inspection calculation
+  tool](https://github.com/KFergusonUK/Q1_PBI_Workings)** — published, then
+  adopted by the DfT as a national template now used by English highway
+  authorities and utilities
 - **One.Network API roadworks reporting** — designed and built, since
   replicated by more than 20 highway authorities
 - **[Street Works Sentinel Suite](/projects/sentinel-suite/)** — four free
   desktop tools built on Street Manager data, given to highway authorities
   and utilities alike
+- **[Street Manager guides](/projects/street-manager-guides/)** — video
+  walkthroughs of Street Manager processes, featured by HAUC(UK) on their
+  innovation hub
 - **DTF 8.1 / SR101 validation tool** — corrects the structural faults in
   DTF 8.1 exports that cause GeoPlace SR101 validation failures
 - **[streetworksai.co.uk](https://streetworksai.co.uk)** — one of the

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "The future of street works: AI, automation and robotics"
-date: 2026-09-01
+date: 2025-12-01
 excerpt: "Street works is about to change more in the next five years than it has in the last twenty. Much of what we think of as future tech is already live — and all of it rests on data quality nobody sees."
 ---
 
-<!-- DATE: I've guessed 2026-09-01. Change both the date field above and
-     the date in the filename to the real publication date — they have to
-     match, and the filename is what builds the URL. -->
+<!-- DATE: approximate — LinkedIn only gave "9 months ago". If you can
+     pin it down, change the date field above AND the filename, and update
+     the link on index.md, since the URL is built from the date. -->
 
 I firmly believe street works is about to change more in the next five years
 than it has in the last twenty.

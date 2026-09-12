@@ -26,10 +26,41 @@ post is Road & Street Works Systems Supervisor.
 - **HAUC(UK) Convention 2026**, Manchester — the Streets Collaboration Tool,
   presented with Christopher Carlon in the Innovating Data session, at the
   convention marking HAUC(UK)'s 40th year
+- **DfT Street Manager data webinar** — on transforming and making better
+  use of Street Manager data, with two other specialists.
+  [Watch on the DfT's YouTube channel](https://youtu.be/nYAVf6DfUJA)
+  <!-- add the year -->
+- **CIPFA HAMP Network workshops** — supporting the NUAR sessions for local
+  highway practitioners, alongside GeoPlace and AtkinsRéalis colleagues
+  <!-- add the year -->
+- **NUAR in Action** — webinar panel with Marisa Hayes (GeoPlace) and Ashley
+  Behan (Lincolnshire), on NUAR use cases for highway authorities, 2024
 
-<!-- Add others as they come up, and any earlier ones worth listing.
-     Chairing NEJAG and co-chairing NEHAUC presumably means you speak
-     fairly regularly — anything with a named audience belongs here. -->
+<!-- Add others as they come up. Chairing NEJAG and co-chairing NEHAUC
+     presumably means you speak fairly regularly — anything with a named
+     audience belongs here. -->
+
+## In others' words
+
+> One of the top three Street Manager data experts in the country.
+
+**Paul Chandler**, Product Owner for Street Manager, Department for
+Transport
+
+> We appreciate the direct support from Kevin Ferguson who created the excel
+> products to aid calculation of quarter one failure rates, going above and
+> beyond by also providing IT support.
+
+**Department for Transport**, in a Performance Based Inspections update to
+highway authorities in England. The
+[calculation sheets](https://github.com/KFergusonUK/Q1_PBI_Workings) are on
+GitHub.
+
+> Kevin F. is a remarkable innovator who excels at utilising data to ensure
+> that Government legislation is met and that the residents of Durham
+> receive the best possible service.
+
+**GeoPlace**
 
 ## What I work on
 

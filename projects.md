@@ -23,6 +23,10 @@ Four free desktop tools helping authorities and utilities get more from
 Street Manager data — FPN detection, performance indicators, trend analysis
 and notice handling.
 
+## [Street Manager Guides](/projects/street-manager-guides/)
+Video walkthroughs of Street Manager processes, presented by an AI avatar
+and featured on the HAUC(UK) innovation hub.
+
 ## [AMCORE](/projects/amcore/)
 AI-native asset management and condition reporting engine for highways.
 
