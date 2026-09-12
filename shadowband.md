@@ -10,7 +10,7 @@ permalink: /projects/shadowband/
 
 <!-- IMAGE: app icon or a hero screenshot.
      assets/shadowband/hero.png -->
-![Shadowband app running on a phone](/assets/shadowband/hero.png)
+![Shadowband app running on a phone](/assets/posts/shadowband/hero.png)
 
 **[Shadowband on Google Play](https://play.google.com/store/apps/details?id=com.ferguson.shadowband)**
 
@@ -31,7 +31,7 @@ Camera enabled visual figure mapping, using AI assist (Mediapipe/ML_Kit) - Appar
 A REM Pod and trigger object/image movement sensor combined - Trigger REM Pod.  
 I plotting grid for highlighting areas of interest - Energy Map
 Somewhere to view all your logs and captures - Evidence Locker 
-![Main screen of Shadowband showing sensor readings](/assets/shadowband/screenshot-main.jpg)
+![Main screen of Shadowband showing sensor readings](/assets/posts/shadowband/screenshot-main.jpg)
 
 ## The interesting technical problem
 
@@ -46,7 +46,7 @@ anything trustworthy out of one means:
   baseline so it responds to genuine changes rather than firing constantly
   on ambient noise
 
-![Spectral display showing low-frequency audio analysis](/assets/shadowband/infrasound.png)
+![Spectral display showing low-frequency audio analysis](/assets/posts/shadowband/infrasound.png)
 
 Other recent work: a camera crash fix, a BroadcastReceiver leak fix, a
 Fahrenheit/Celsius toggle, and a High Gain mode.
@@ -56,6 +56,6 @@ Fahrenheit/Celsius toggle, and a High Gain mode.
 - **Newton News** — Covered the app in the October 2025 edition.
 - **Creepy Blinders** Used by a local paranormal Group on investigations.
 
-![Press Info](/assets/shadowband/press1wide.png)
+![Press Info](/assets/posts/shadowband/press1wide.png)
 
 
