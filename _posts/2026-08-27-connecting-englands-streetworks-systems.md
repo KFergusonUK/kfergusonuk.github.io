@@ -11,7 +11,7 @@ excerpt: "The StreetWorks SDK now pulls from over 130 official sources worldwide
      Every image also needs alt text for screen readers — replace the
      bracketed text in each. -->
 
-[World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/posts/streetworks-sdk/world-map.png)
+![World map of live roadworks pulled through the SDK, blue dots marking works sites](/assets/posts/streetworks-sdk/world-map.png)
 *StreetWorks SDK — roadworks world map, partial live pull, 26 August 2026. Blue dots are works sites.*
 
 > "Make a Streetworks (and roadworks) Software Development Kit (SDK) that makes connecting to England's systems — Street Manager, NSG, D-TRO, National Highways, etc. — easier, and maybe even pulls in data from across the UK... Europe... or even the world, puts it through a common model, and makes it consistent to use. Just link to each country's version of Street Manager. How hard can it be…"
