@@ -46,7 +46,7 @@ An Android app built and shipped solo — approaching 7,000 downloads with a
 ## Writing
 
 **[I set out to connect England's streetworks systems. I ended up mapping a
-third of the world's.](/2026/08/27-connecting-englands-streetworks-systems.html)**
+third of the world's.](/2026/08/27/connecting-englands-streetworks-systems.html)**
 What building the StreetWorks SDK taught me about how differently countries
 handle roadworks data — and the difference between publishing a feed and
 running a register.
