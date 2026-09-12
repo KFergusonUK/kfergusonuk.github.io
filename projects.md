@@ -25,7 +25,8 @@ dividend, specified down to rates, exemptions and anti-avoidance rules.
 
 ## [Shadowband](/projects/shadowband/)
 Android app for paranormal investigation, including low-frequency audio
-detection. Shipped, maintained, approaching 7,000 downloads at 4.2 stars.
+detection. Shipped, maintained, approaching 7,000 downloads at 4.2 stars
+[on Google Play](https://play.google.com/store/apps/details?id=com.ferguson.shadowband).
 
 ---
 
