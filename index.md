@@ -40,7 +40,7 @@ A governance framework for advanced AI systems, archived with permanent DOIs
 on Zenodo and OSF and listed on PhilPapers.
 
 ### [Shadowband](/projects/shadowband/)
-An Android app built and shipped solo — approaching 7,000 downloads with a
+An Android app built and shipped solo — over 7,000 downloads with a
 4.2 average rating
 [on Google Play](https://play.google.com/store/apps/details?id=com.ferguson.shadowband).
 

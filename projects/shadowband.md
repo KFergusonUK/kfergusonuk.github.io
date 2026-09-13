@@ -6,7 +6,7 @@ permalink: /projects/shadowband/
 
 *Android · Kotlin · built, shipped and maintained solo*
 
-**Over 7,000 installs · 4.2 average rating**
+**Over 7,000 installs · 4.2 average rating** — September 2026
 
 <!-- IMAGE: app icon or a hero screenshot.
      assets/shadowband/hero.png -->
