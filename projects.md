@@ -56,3 +56,7 @@ games like this operate under the surface.
 Android app for paranormal investigation, including low-frequency audio
 detection. Shipped, maintained, approaching 7,000 downloads at 4.2 stars
 [on Google Play](https://play.google.com/store/apps/details?id=com.ferguson.shadowband).
+
+## [BanxStrike](/projects/banxstrike/)
+An unfinished 2.5D Unity game in C#, inspired by the Mega Drive Strike
+series. Early prototype, placeholder art, built for the fun of it.
