@@ -20,6 +20,7 @@ post is Road & Street Works Systems Supervisor.
 - **DfT Street Manager Governance Group** — member, since 2020
 - **NUAR** — Senior Stakeholder Advisory Group member
 - **Coordination Code of Practice rewrite** — HAUC(UK) working group member
+- **Causeway One User Group** — founder and Chair, since 2025
 
 ## National and sector work
 
@@ -34,6 +35,19 @@ I'm currently part of the HAUC(UK) working group rewriting the Coordination
 Code of Practice — the statutory guidance that governs how works are
 coordinated across the network. I'm also a member of the NUAR Senior
 Stakeholder Advisory Group.
+
+I've also sat on a few shorter, task-and-finish groups: the DfT's Street
+Works/Street Manager AI Assistant Working Group and its companion Ethics
+Group (2025), and GeoPlace's DataVia VIEW Design Group (2026) — all
+concluded now, but the kind of thing I get pulled into when a national body
+wants a practitioner's view on data or AI.
+
+On One.Network specifically, I was part of Causeway's own "Super User"
+group from 2022 until it wound down in 2025. Since then I've set up and
+chair the Causeway One User Group instead — an independent, user-led group
+for other One.Network users that didn't really exist before. Causeway isn't
+part of it — feedback to them goes separately — but other highway
+authorities are starting to join.
 
 <!-- Worth a sentence on what you bring to the Code rewrite specifically —
      the practitioner-plus-systems perspective is unusual on a group like
@@ -107,3 +121,15 @@ NUAR.
 ## Professional membership
 
 MBCS (Advanced RITech), FIHE.
+
+## Certifications
+
+Elements of AI, Machine Learning with Python, Basics of Quantum Information.
+
+## Volunteering
+
+- **Durham County Council Archaeology Team** — volunteer, November 2024,
+  through the council's Employer Supported Volunteering scheme. Helped
+  accession National Record of the Historic Environment (NRHE) data into
+  the Historic Environment Record (HER).
+- **Durham Wildlife Trust** — reserve volunteer, 2011
