@@ -21,7 +21,7 @@ including a Microsoft 365 Copilot Studio agent built for Alloy
 administrators.
 
 ## [Streets Collaboration Tool](/projects/collab-tool/)
-Python · FastAPI · Next.js · Mapping
+Python · FastAPI · Next.js · React · Leaflet
 {: .tags}
 
 Helping works promoters cost permits, model collaboration savings and
@@ -37,7 +37,7 @@ Street Manager data — FPN detection, performance indicators, trend analysis
 and notice handling.
 
 ## [Automated roadworks reporting](/projects/roadworks-report/)
-APIs · Automation · Open data
+APIs · Automation · Accessibility · GDPR
 {: .tags}
 
 An API-driven text report of high-impact roadworks for the Durham County
@@ -52,7 +52,7 @@ Video walkthroughs of Street Manager processes, presented by an AI avatar
 and featured on the HAUC(UK) innovation hub.
 
 ## [AMCORE](/projects/amcore/)
-FastAPI · React · Applied AI
+FastAPI · React · Anthropic API · Applied AI
 {: .tags}
 
 AI-native asset management and condition reporting engine for highways.
@@ -79,14 +79,14 @@ wind and user-added hazards, built on open data — with tornado risk as the
 intended next layer.
 
 ## [streetworksai.co.uk](/projects/streetworksai/)
-Python · NLP · TensorFlow · LLM APIs
+Python · NLP · NLTK · TensorFlow · LLM APIs
 {: .tags}
 
 An AI assistant for street works guidance — originally a custom-trained
 chatbot built on a hand-assembled corpus in 2023, now API-based.
 
 ## [GRID](/projects/grid/)
-FastAPI · PostGIS · React Native · Geospatial
+FastAPI · PostGIS · Redis · React Native · Geospatial
 {: .tags}
 
 A grimdark location-based gang-territory game — Pokémon GO by way of
