@@ -134,6 +134,8 @@ MBCS (Advanced RITech), FIHE.
 Elements of AI, Machine Learning with Python, Basics of Quantum Information,
 Certified ScrumMaster (Scrum Alliance, 2022–2024).
 
+Ongoing security training on [TryHackMe](https://tryhackme.com/p/Banxy).
+
 ## Volunteering
 
 - **Durham County Council Archaeology Team** — volunteer, November 2024,
