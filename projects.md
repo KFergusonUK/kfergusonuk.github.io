@@ -94,7 +94,7 @@ Necromunda and Cyberpunk 2077. Working prototype, built mostly to learn how
 games like this operate under the surface.
 
 ## [Shadowband](/projects/shadowband/)
-Android · Kotlin · Signal processing · TensorFlow Lite
+Android · Kotlin · Signal processing · TensorFlow Lite · MediaPipe
 {: .tags}
 
 Android app for paranormal investigation, including low-frequency audio
