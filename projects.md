@@ -47,6 +47,11 @@ A live multi-layer UK map of rainfall, river levels, weather station feeds,
 wind and user-added hazards, built on open data — with tornado risk as the
 intended next layer.
 
+## [GRID](/projects/grid/)
+A grimdark location-based gang-territory game — Pokémon GO by way of
+Necromunda and Cyberpunk 2077. Working prototype, built mostly to learn how
+games like this operate under the surface.
+
 ## [Shadowband](/projects/shadowband/)
 Android app for paranormal investigation, including low-frequency audio
 detection. Shipped, maintained, approaching 7,000 downloads at 4.2 stars
