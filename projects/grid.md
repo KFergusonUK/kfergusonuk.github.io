@@ -24,6 +24,6 @@ a detail sheet for an enemy-held site](/assets/grid/grid.jpg)
 
 ## Status
 
-Working, but purely functional — no interface polish, no nice graphics.
-Whether it goes anywhere past being a good way to learn how these games are
-built under the hood is still an open question, and that's fine.
+Working end to end — map, territory, gangs. Whether it goes anywhere past
+being a good way to learn how these games are built under the hood is
+still an open question, and that's fine.
