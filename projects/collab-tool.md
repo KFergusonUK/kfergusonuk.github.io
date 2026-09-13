@@ -46,6 +46,8 @@ frontend and Leaflet for mapping. It uses the
 project that turned out to be the right tool for the job — for its data
 handling.
 
+![The Streets Collaboration Tool showing planned works and costing](/assets/collab-tool/screenshot.jpg)
+
 ## Origin
 
 The idea came out of the NWG Innovation Festival in 2025, in the DSIT
@@ -58,4 +60,4 @@ GeoPlace.
 
 ## Status
 
-<!-- Say only what you've been cleared to say. -->
+Still work in progress, but coming together now.
