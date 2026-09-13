@@ -134,7 +134,8 @@ MBCS (Advanced RITech), FIHE.
 Elements of AI, Machine Learning with Python, Basics of Quantum Information,
 Certified ScrumMaster (Scrum Alliance, 2022–2024).
 
-Ongoing security training on [TryHackMe](https://tryhackme.com/p/Banxy).
+Ongoing security training on [TryHackMe](https://tryhackme.com/p/Banxy) —
+52 rooms completed, ranked in the top 6%.
 
 ## Volunteering
 
