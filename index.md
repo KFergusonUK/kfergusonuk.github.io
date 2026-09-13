@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Kevin Ferguson
 ---
 
 **iHAMS Project Manager, Durham County Council**
