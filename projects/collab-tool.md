@@ -48,9 +48,13 @@ handling.
 
 ## Origin
 
-The idea came out of a sprint win at the NWG Innovation Festival with
-Jonathan Bates and Christopher Carlon, and has grown from there into a
-working prototype at GeoPlace.
+The idea came out of the NWG Innovation Festival in 2025, in the DSIT
+"Unlocking the Value of NUAR" sprint led by Neil Brammall. Working with
+Jonathan Bates, Christopher Carlon and Howard Yeend, we pitched what we
+then called the RFG Collaboration Tool, and won our sprint with it.
+
+It has grown from a three-day idea in a tent into a working prototype at
+GeoPlace.
 
 ## Status
 
