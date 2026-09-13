@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: "Kevin Ferguson's roles across Durham County Council, GeoPlace, JAG(UK), NEJAG, NEHAUC and NUAR, with speaking, training and technical background."
 ---
 
 I work on the systems, data and standards behind how street works are

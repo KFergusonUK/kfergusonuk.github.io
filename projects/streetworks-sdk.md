@@ -1,7 +1,8 @@
 ---
 layout: page
 title: StreetWorks SDK
-permalink: /projects/streetworks-sdk/
+permalink: /projects/streetworks-sdk/
+description: "An open-source Python SDK normalising roadworks data from 130+ official sources worldwide into one consistent model. Published on PyPI."
 ---
 
 *Python · open source, MIT licensed · [PyPI](https://pypi.org/project/streetworks/) ·

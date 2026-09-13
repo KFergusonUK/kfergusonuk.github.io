@@ -2,6 +2,7 @@
 layout: page
 title: Awards
 permalink: /awards/
+description: "Awards and recognition, including five consecutive GeoPlace Platinum Exemplar Awards, an MJ Achievement Awards finalist place and Strictly Highways 2024."
 ---
 
 ## GeoPlace Exemplar Awards — Platinum, five consecutive years

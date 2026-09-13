@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Shadowband
-permalink: /projects/shadowband/
+permalink: /projects/shadowband/
+description: "An Android app for paranormal investigation with infrasound detection, built and shipped solo in Kotlin. Over 7,000 installs at 4.2 stars."
 ---
 
 *Android · Kotlin · built, shipped and maintained solo*

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Streets Collaboration Tool
-permalink: /projects/collab-tool/
+permalink: /projects/collab-tool/
+description: "A GeoPlace tool helping highway authorities and utilities cost permits, model collaboration savings and coordinate planned works."
 ---
 
 *GeoPlace · Technical Project Lead, since 2026*

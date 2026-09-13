@@ -2,6 +2,7 @@
 layout: page
 title: Articles
 permalink: /articles/
+description: "Writing by Kevin Ferguson on street works data, national systems and how AI and automation are arriving in the highways sector."
 ---
 
 <!-- This page lists every post in _posts/ automatically. You don't

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Kevin Ferguson
+description: "Kevin Ferguson — IHAMS Project Manager at Durham County Council and Technical Project Lead at GeoPlace. Highways data, national standards and applied AI."
 ---
 
 **IHAMS Project Manager, Durham County Council**

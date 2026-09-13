@@ -2,6 +2,7 @@
 layout: page
 title: streetworksai.co.uk
 permalink: /projects/streetworksai/
+description: "An AI assistant for street works guidance — a custom-trained chatbot built on a hand-assembled corpus in 2023, later rebuilt on an API."
 ---
 
 *An AI assistant for street works guidance · [streetworksai.co.uk](https://www.streetworksai.co.uk)*

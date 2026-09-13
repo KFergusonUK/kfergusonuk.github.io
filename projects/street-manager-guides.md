@@ -2,6 +2,7 @@
 layout: page
 title: Street Manager Guides
 permalink: /projects/street-manager-guides/
+description: "Step-by-step video walkthroughs of Street Manager processes, presented by an AI avatar and featured on the HAUC(UK) innovation hub."
 ---
 
 *Video walkthroughs · [YouTube](https://www.youtube.com/@KevinFerguson_UK)*

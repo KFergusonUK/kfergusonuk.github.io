@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Advanced AI Rights & Responsibilities Charter
-permalink: /projects/ai-charter/
+permalink: /projects/ai-charter/
+description: "A governance framework setting out rights and responsibilities for advanced AI systems, archived with permanent DOIs on Zenodo and OSF."
 ---
 
 *Version 2.2 · archived with permanent DOIs*

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Automation Dividend Framework
-permalink: /projects/adf/
+permalink: /projects/adf/
+description: "A policy framework levying a share of automation savings to fund a universal dividend, specified down to rates, exemptions and anti-avoidance rules."
 ---
 
 *Policy framework · [GitHub](https://github.com/KFergusonUK/Automation-Dividend-Framework)*

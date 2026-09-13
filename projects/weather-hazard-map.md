@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Weather Hazard Map
-permalink: /projects/weather-hazard-map/
+permalink: /projects/weather-hazard-map/
+description: "A live multi-layer UK map of rainfall, river levels, weather stations and wind, built entirely on open data. FastAPI, PostGIS, React and Leaflet."
 ---
 
 *FastAPI · PostGIS · React · Leaflet · built on open data*

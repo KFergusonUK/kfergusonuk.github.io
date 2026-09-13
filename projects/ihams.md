@@ -2,6 +2,7 @@
 layout: page
 title: IHAMS
 permalink: /projects/ihams/
+description: "Implementing a highway asset management system at Durham County Council, including a Microsoft 365 Copilot Studio agent for Alloy administrators."
 ---
 
 *Highway asset management system implementation — Durham County Council,

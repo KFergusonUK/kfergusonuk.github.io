@@ -2,6 +2,7 @@
 layout: page
 title: GRID
 permalink: /projects/grid/
+description: "A location-based gang-territory game prototype built to learn how games like Pokémon GO work underneath. FastAPI, PostGIS and React Native."
 ---
 
 *Personal experiment. FastAPI, PostGIS and Redis; React Native (Expo) for

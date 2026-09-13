@@ -2,6 +2,7 @@
 layout: page
 title: BanxStrike
 permalink: /projects/banxstrike/
+description: "An unfinished 2.5D action game in Unity and C#, inspired by the Mega Drive Strike series. An early prototype with placeholder art."
 ---
 
 *Working title. Unity and C#. Unfinished, and built for the fun of it.*

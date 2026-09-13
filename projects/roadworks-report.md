@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Automated roadworks reporting
-permalink: /projects/roadworks-report/
+permalink: /projects/roadworks-report/
+description: "An API-driven text report of high-impact roadworks for Durham County Council, replacing a manual weekly process. Since replicated by 20+ authorities."
 ---
 
 *Durham County Council · with Causeway one.network · since replicated by

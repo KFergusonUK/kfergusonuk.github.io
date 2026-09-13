@@ -1,7 +1,8 @@
 ---
 layout: page
 title: AMCORE
-permalink: /projects/amcore/
+permalink: /projects/amcore/
+description: "An AI-native asset management and condition reporting engine for highways. FastAPI and React, with a swappable AI backend and a three-tier safety layer."
 ---
 
 *Asset Management & Condition Reporting Engine — an AI-native highway asset
