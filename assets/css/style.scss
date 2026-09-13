@@ -147,11 +147,11 @@ code {
 
 .award-grid img {
   flex: 0 0 auto;
-  width: 132px;
-  height: 176px;          /* fixed box — every tile identical */
-  object-fit: contain;    /* fit inside, never crop the text */
+  width: 220px;
+  aspect-ratio: 3 / 4;     /* fixed box — every tile identical */
+  object-fit: cover;       /* fill the box, no letterboxing */
   background: #fff;
-  padding: .35rem;
+  padding: .4rem;
   border: 1px solid #e3e6ea;
   border-radius: 3px;
   display: block;
@@ -159,7 +159,7 @@ code {
 }
 
 @media (max-width: 480px) {
-  .award-grid img { width: 104px; height: 139px; }
+  .award-grid img { width: 150px; }
 }
 
 .award-banner {
