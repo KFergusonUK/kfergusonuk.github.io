@@ -145,7 +145,10 @@ code {
 }
 .award-grid img {
   width: 100%;
-  height: auto;
+  aspect-ratio: 3 / 4;      /* uniform box for every tile */
+  object-fit: contain;      /* fit inside it, never crop the text */
+  background: #fff;
+  padding: .35rem;
   border: 1px solid #e3e6ea;
   border-radius: 3px;
   display: block;
