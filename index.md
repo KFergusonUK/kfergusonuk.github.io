@@ -77,7 +77,7 @@ running a register.
 - **[DTF 8.1 / SR101 validation
   tool](https://github.com/KFergusonUK/SR101)** — corrects the structural
   faults in DTF 8.1 exports that cause GeoPlace SR101 validation failures
-- **[streetworksai.co.uk](https://streetworksai.co.uk)** — one of the
+- **[streetworksai.co.uk](https://www.streetworksai.co.uk)** — one of the
   sector's first AI chatbots for street works guidance, built independently
 
 ---
