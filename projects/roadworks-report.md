@@ -46,9 +46,7 @@ for staff to use, added by the coordination and TTRO teams as a matter of
 course. That sidesteps the free text field entirely: the public gets useful
 context about each works, and nothing unreviewed reaches the website.
 
-<!-- REPLACE with the direct URL to the live DCC report page — the lnkd.in
-     shortlink routes readers through LinkedIn to reach a council page. -->
-[View the live report](REAL_DCC_REPORT_URL_HERE)
+[View the live report](https://www.durham.gov.uk/roadworks)
 
 ## Outcome
 
@@ -56,6 +54,9 @@ Up-to-date text-based roadworks information, published continuously rather
 than weekly, with the manual compilation removed entirely. The approach has
 since been replicated by more than 20 highway authorities.
 
-<!-- Worth adding if you have it: roughly how much staff time this freed
-     up, and whether the internal conversation about applying the same
-     approach to other pages went anywhere. -->
+<!-- Confirm the current adoption figure — you thought it may now be
+     30+ authorities rather than 20+. Update this page, the projects list
+     and the home page bullet together when you know.
+
+     Also worth adding if you have it: roughly how much staff time this
+     freed up. -->
