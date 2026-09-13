@@ -71,8 +71,7 @@ h3 + p {
 
 /* ---- The roles block under the h1 -------------------------------- */
 
-h1 + p strong { display: block; }
-h1 + p {
+.lede {
   font-size: 1.05rem;
   color: #4a5158;
   margin-bottom: 1.6rem;
