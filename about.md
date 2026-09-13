@@ -19,7 +19,26 @@ post is Road & Street Works Systems Supervisor.
 - **NEHAUC** — Co-Chair, since 2023
 - **DfT Street Manager Governance Group** — member, since 2020
 - **NUAR** — Senior Stakeholder Advisory Group member
-- **Street Works Code of Practice** — 2026 review contributor
+- **Coordination Code of Practice rewrite** — HAUC(UK) working group member
+
+## National and sector work
+
+Most of what I do sits at the point where local delivery meets national
+standards. Chairing NEJAG and co-chairing NEHAUC means representing North
+East authorities and utilities; sitting on the DfT's Street Manager
+Governance Group since 2020 means taking that regional view into the
+development of the national system. As Vice Chair of JAG(UK) the scope is
+national rather than regional.
+
+I'm currently part of the HAUC(UK) working group rewriting the Coordination
+Code of Practice — the statutory guidance that governs how works are
+coordinated across the network. I'm also a member of the NUAR Senior
+Stakeholder Advisory Group.
+
+<!-- Worth a sentence on what you bring to the Code rewrite specifically —
+     the practitioner-plus-systems perspective is unusual on a group like
+     that. Keep it to your involvement and what you contribute: the
+     drafting itself isn't yours to describe publicly while it's live. -->
 
 ## Speaking
 
@@ -35,6 +54,15 @@ post is Road & Street Works Systems Supervisor.
   <!-- add the year -->
 - **NUAR in Action** — webinar panel with Marisa Hayes (GeoPlace) and Ashley
   Behan (Lincolnshire), on NUAR use cases for highway authorities, 2024
+
+## Training
+
+- **National Conditions Text (NCT) for street and road works** — designed
+  and delivered training sessions for NEHAUC members, with Jonathan
+  Sabbatinelli and Rachel Dodds, covering both in-person and virtual
+  delivery. The aim was consistent understanding and application of NCTs
+  across England by highway authorities and utilities alike.
+  <!-- add the year -->
 
 <!-- Add others as they come up. Chairing NEJAG and co-chairing NEHAUC
      presumably means you speak fairly regularly — anything with a named

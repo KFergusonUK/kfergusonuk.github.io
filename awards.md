@@ -64,8 +64,20 @@ Local Impact category
 ## NWG Innovation Festival — Sprint winner, 2023 and 2025
 Northumbrian Water Group
 
-Won the innovation sprint competition twice, working in cross-functional
-teams on real utility and infrastructure problems.
+**2025** — part of the DSIT "Unlocking the Value of NUAR" sprint, led by
+Neil Brammall. Working with Jonathan Bates, Christopher Carlon and Howard
+Yeend, we pitched and won our sprint with a tool we called the RFG
+Collaboration Tool. It has since become the
+[Streets Collaboration Tool](/projects/collab-tool/) at GeoPlace.
+
+**2023** — on the Cyclomedia-sponsored street works table, tackling the
+friction between utilities, contractors and local authorities. Our team won
+best presented storyline with a proposed minimum viable product, working
+with Michele Chincoli, Matt Lewis (Fyld) and John Hopper (Esh Group). The
+idea went on to become a joint NWG and Cyclomedia initiative to create a
+National Road Materials Database. It didn't ultimately proceed — though the
+underlying need hasn't gone away, and it's the kind of thing that could yet
+fold into NUAR.
 
 ---
 
