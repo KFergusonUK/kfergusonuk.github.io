@@ -15,11 +15,10 @@ I work on the systems and standards that sit underneath how roadworks are
 planned, permitted and recorded in the UK — and I build software in the
 same space.
 
-I'm currently IHAMS Project Manager at Durham County Council and Technical
-Project Lead at GeoPlace, with a substantive post as Road & Street Works
-Systems Supervisor. Alongside that I'm Vice Chair of JAG(UK), Chair of
-NEJAG, Co-Chair of NEHAUC, a member of the NUAR Senior Stakeholder Advisory
-Group, and part of the current Street Works Code of Practice review.
+My substantive post is Road & Street Works Systems Supervisor. Alongside
+that I’m Vice Chair of JAG(UK), Chair of NEJAG, Co-Chair of NEHAUC, a
+member of the NUAR Senior Stakeholder Advisory Group, and part of the
+HAUC(UK) working group rewriting the Coordination Code of Practice.
 
 [More about me](/about/) · [Projects](/projects/)
 
@@ -82,8 +81,9 @@ running a register.
 - **[DTF 8.1 / SR101 validation
   tool](https://github.com/KFergusonUK/SR101)** — corrects the structural
   faults in DTF 8.1 exports that cause GeoPlace SR101 validation failures
-- **[streetworksai.co.uk](https://www.streetworksai.co.uk)** — one of the
-  sector's first AI chatbots for street works guidance, built independently
+- **[streetworksai.co.uk](/projects/streetworksai/)** — an AI assistant for
+  street works guidance, custom-trained in 2023 before the API route
+  existed
 
 ---
 

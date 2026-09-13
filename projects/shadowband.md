@@ -46,7 +46,7 @@ anything trustworthy out of one means:
   baseline so it responds to genuine changes rather than firing constantly
   on ambient noise
 
-![Spectral display showing low-frequency audio analysis](/assets/posts/shadowband/infrasound.png)
+![Spectral display showing low-frequency audio analysis](/assets/posts/shadowband/infrasound.jpg)
 
 Other recent work: a camera crash fix, a BroadcastReceiver leak fix, a
 Fahrenheit/Celsius toggle, and a High Gain mode.

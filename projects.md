@@ -47,6 +47,10 @@ A live multi-layer UK map of rainfall, river levels, weather station feeds,
 wind and user-added hazards, built on open data — with tornado risk as the
 intended next layer.
 
+## [streetworksai.co.uk](/projects/streetworksai/)
+An AI assistant for street works guidance — originally a custom-trained
+chatbot built on a hand-assembled corpus in 2023, now API-based.
+
 ## [GRID](/projects/grid/)
 A grimdark location-based gang-territory game — Pokémon GO by way of
 Necromunda and Cyberpunk 2077. Working prototype, built mostly to learn how
