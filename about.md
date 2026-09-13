@@ -39,8 +39,8 @@ Stakeholder Advisory Group.
 I've also sat on a few shorter, task-and-finish groups: the DfT's Street
 Works/Street Manager AI Assistant Working Group and its companion Ethics
 Group (2025), and GeoPlace's DataVia VIEW Design Group (2026) — all
-concluded now, but the kind of thing I get pulled into when a national body
-wants a practitioner's view on data or AI.
+concluded now, but the kind of thing I enjoy working on when a national
+body wants a practitioner's view on data or AI.
 
 On One.Network specifically, I was part of Causeway's own "Super User"
 group from 2022 until it wound down in 2025. Since then I've set up and
