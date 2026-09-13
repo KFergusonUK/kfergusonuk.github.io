@@ -5,7 +5,8 @@ permalink: /projects/sentinel-suite/
 description: "Four free desktop tools built on Street Manager data — FPN detection, performance indicators, trend analysis and notice handling."
 ---
 
-*Free desktop tooling built on Street Manager data · current version 1.0.2*
+*Python, Tkinter and SQLite · free desktop tooling built on Street Manager
+data · current version 1.0.2*
 
 Four applications that help highway authorities and utilities get more out
 of their Street Manager data, bundled behind a single launcher. Free to use,

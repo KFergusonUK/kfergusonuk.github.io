@@ -29,7 +29,7 @@ coordinate planned works. Built at GeoPlace; presented at the HAUC
 Convention 2026.
 
 ## [Street Works Sentinel Suite](/projects/sentinel-suite/)
-Desktop tooling · Data analysis · Street Manager
+Python · Tkinter · SQLite · Desktop tooling
 {: .tags}
 
 Four free desktop tools helping authorities and utilities get more from
