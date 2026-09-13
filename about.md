@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 I work on the systems, data and standards behind how street works are
-coordinated across the road network — currently as iHAMS Project Manager at
+coordinated across the road network — currently as IHAMS Project Manager at
 Durham County Council and Technical Project Lead at GeoPlace. My substantive
 post is Road & Street Works Systems Supervisor.
 
 ## Roles
 
-- **Durham County Council** — iHAMS Project Manager, since 2026
+- **Durham County Council** — IHAMS Project Manager, since 2026
 - **GeoPlace** — Technical Project Lead, Collaboration Tool, since 2026
 - **Durham County Council** — Road & Street Works Systems Supervisor, since 2020 (substantive post)
 - **JAG(UK)** — Vice Chair, since 2025

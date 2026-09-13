@@ -3,7 +3,7 @@ layout: page
 title: Kevin Ferguson
 ---
 
-**iHAMS Project Manager, Durham County Council**
+**IHAMS Project Manager, Durham County Council**
 {: .lede}
 
 **Technical Project Lead, GeoPlace**
@@ -15,7 +15,7 @@ I work on the systems and standards that sit underneath how roadworks are
 planned, permitted and recorded in the UK — and I build software in the
 same space.
 
-I'm currently iHAMS Project Manager at Durham County Council and Technical
+I'm currently IHAMS Project Manager at Durham County Council and Technical
 Project Lead at GeoPlace, with a substantive post as Road & Street Works
 Systems Supervisor. Alongside that I'm Vice Chair of JAG(UK), Chair of
 NEJAG, Co-Chair of NEHAUC, a member of the NUAR Senior Stakeholder Advisory

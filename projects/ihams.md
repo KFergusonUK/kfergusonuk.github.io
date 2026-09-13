@@ -1,13 +1,13 @@
 ---
 layout: page
-title: iHAMS
+title: IHAMS
 permalink: /projects/ihams/
 ---
 
 *Highway asset management system implementation — Durham County Council,
 since 2026*
 
-Leading the implementation of iHAMS, coordinating cross-departmental
+Leading the implementation of IHAMS, coordinating cross-departmental
 requirements, supplier engagement and delivery planning, with responsibility
 for governance, risk and stakeholder reporting.
 
