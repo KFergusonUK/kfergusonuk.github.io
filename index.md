@@ -5,7 +5,9 @@ layout: page
 # Kevin Ferguson
 
 **iHAMS Project Manager, Durham County Council**
+
 **Technical Project Lead, GeoPlace**
+
 Highways data, national standards, and applied AI
 
 I work on the systems and standards that sit underneath how roadworks are
