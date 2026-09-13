@@ -19,6 +19,9 @@ top. The backend is FastAPI with PostGIS for the geospatial side and Redis
 alongside it; the mobile client is React Native and Expo, using
 `react-native-maps` for the map itself.
 
+![GRID map screen showing a gang's territory radius, nearby locations, and
+a detail sheet for an enemy-held site](/assets/grid/grid.jpg)
+
 ## Status
 
 Working, but purely functional — no interface polish, no nice graphics.
