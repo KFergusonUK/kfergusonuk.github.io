@@ -66,16 +66,17 @@ running a register.
   tool](https://github.com/KFergusonUK/Q1_PBI_Workings)** — published, then
   adopted by the DfT as a national template now used by English highway
   authorities and utilities
-- **One.Network API roadworks reporting** — designed and built, since
-  replicated by more than 20 highway authorities
+- **[One.Network API roadworks reporting](/projects/roadworks-report/)** —
+  designed and built, since replicated by more than 20 highway authorities
 - **[Street Works Sentinel Suite](/projects/sentinel-suite/)** — four free
   desktop tools built on Street Manager data, given to highway authorities
   and utilities alike
 - **[Street Manager guides](/projects/street-manager-guides/)** — video
   walkthroughs of Street Manager processes, featured by HAUC(UK) on their
   innovation hub
-- **DTF 8.1 / SR101 validation tool** — corrects the structural faults in
-  DTF 8.1 exports that cause GeoPlace SR101 validation failures
+- **[DTF 8.1 / SR101 validation
+  tool](https://github.com/KFergusonUK/SR101)** — corrects the structural
+  faults in DTF 8.1 exports that cause GeoPlace SR101 validation failures
 - **[streetworksai.co.uk](https://streetworksai.co.uk)** — one of the
   sector's first AI chatbots for street works guidance, built independently
 

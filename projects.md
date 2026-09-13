@@ -23,6 +23,11 @@ Four free desktop tools helping authorities and utilities get more from
 Street Manager data — FPN detection, performance indicators, trend analysis
 and notice handling.
 
+## [Automated roadworks reporting](/projects/roadworks-report/)
+An API-driven text report of high-impact roadworks for the Durham County
+Council website, replacing a manual weekly process. Since replicated by 20+
+authorities.
+
 ## [Street Manager Guides](/projects/street-manager-guides/)
 Video walkthroughs of Street Manager processes, presented by an AI avatar
 and featured on the HAUC(UK) innovation hub.
