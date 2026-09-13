@@ -104,6 +104,13 @@ GitHub.
 
 **GeoPlace**
 
+> I worked with Kevin for many years both in the parking sector and later
+> in road and street works. He is a dedicated professional and a superb
+> addition to any team.
+
+**Danny Harland**, Strategic Lead — Network, Traffic & Transport, North
+East Lincolnshire Council, a former manager
+
 ## What I work on
 
 <!-- Two or three paragraphs in your own voice. Worth covering:
@@ -124,7 +131,8 @@ MBCS (Advanced RITech), FIHE.
 
 ## Certifications
 
-Elements of AI, Machine Learning with Python, Basics of Quantum Information.
+Elements of AI, Machine Learning with Python, Basics of Quantum Information,
+Certified ScrumMaster (Scrum Alliance, 2022–2024).
 
 ## Volunteering
 
