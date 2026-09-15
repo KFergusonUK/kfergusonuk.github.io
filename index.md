@@ -51,17 +51,24 @@ An Android app built and shipped solo — over 7,000 downloads with a
 
 ## Writing
 
-**[The future of street works: AI, automation and
-robotics](/2025/12/01/future-of-street-works.html)**
-Much of what we call future tech is already live. All of it rests on data
-quality, and on an unanswered question about who is responsible when an
-automated process gets it wrong.
+**[AI Alignment, and interventions: Optimisation of the wrong
+things.](/2026/09/15/ai-alignment-optimisation.html)**
+Why most alignment failures are systems optimising a stand-in for an intent
+nobody wrote down — and why making reasons available beats adding rules.
 
 **[I set out to connect England's streetworks systems. I ended up mapping a
 third of the world's.](/2026/08/27/connecting-englands-streetworks-systems.html)**
 What building the StreetWorks SDK taught me about how differently countries
 handle roadworks data — and the difference between publishing a feed and
 running a register.
+
+**[The future of street works: AI, automation and
+robotics](/2025/12/01/future-of-street-works.html)**
+Much of what we call future tech is already live. All of it rests on data
+quality, and on an unanswered question about who is responsible when an
+automated process gets it wrong.
+
+[All articles](/articles/)
 
 ---
 

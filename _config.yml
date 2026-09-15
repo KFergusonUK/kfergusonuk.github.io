@@ -18,6 +18,7 @@ theme: minima
 header_pages:
   - about.md
   - projects.md
+  - articles.md
   - awards.md
 
 # Footer / social links

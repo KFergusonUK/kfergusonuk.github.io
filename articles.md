@@ -2,14 +2,11 @@
 layout: page
 title: Articles
 permalink: /articles/
-description: "Writing by Kevin Ferguson on street works data, national systems and how AI and automation are arriving in the highways sector."
+description: "Writing by Kevin Ferguson on street works data, national systems, and AI alignment and automation."
 ---
 
-<!-- This page lists every post in _posts/ automatically. You don't
-     need to edit it when you publish something new.
-
-     NOT yet in the nav bar. Once you have three or four posts here,
-     add "- articles.md" to header_pages in _config.yml. -->
+<!-- This page lists every post in _posts/ automatically, newest first.
+     You don't need to edit it when you publish something new. -->
 
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
