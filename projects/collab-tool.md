@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Streets Collaboration Tool
-permalink: /projects/collab-tool/
+permalink: /projects/collab-tool/
 description: "A GeoPlace tool helping highway authorities and utilities cost permits, model collaboration savings and coordinate planned works."
 ---
 
@@ -37,6 +37,18 @@ at the [HAUC(UK) Convention
 2026](https://www.geoplace.co.uk/news-events/events/hauc-convention/hauc-convention-delegate-information/past-conventions/hauc-convention-2026/hauc-convention-agenda-2026)
 in Manchester, on 23 April 2026 — the convention marking HAUC(UK)'s 40th
 year.
+
+## Featured in HAUC(UK) Pulse
+
+HAUC(UK)'s newsletter covered the project in [Edition 7, September
+2026](https://static.hauc-uk.org.uk/uploads/documents/HAUCUK-Pulse-Edition-7.pdf)
+(page 6, "HAUC Collaboration Toolkit: turning evidence into action"),
+naming Christopher Carlon, Jonathan Bates and me at GeoPlace.
+
+It also reported the project's research: around 64% of street works take
+place within three months of other works on the same network, and better
+coordinated planning could save the industry an estimated £4 billion to
+£18 billion.
 
 ## How it's built
 
