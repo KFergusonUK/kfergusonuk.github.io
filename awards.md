@@ -5,6 +5,20 @@ permalink: /awards/
 description: "Awards and recognition, including five consecutive GeoPlace Platinum Exemplar Awards, an MJ Achievement Awards finalist place and Strictly Highways 2024."
 ---
 
+## Ordnance Survey NUAR case study — featured
+Published by Ordnance Survey · October 2026
+
+[How Durham County Council is saving weeks of time with
+NUAR](https://www.nuar.uk/news/durham-county-council-case-study) covers the
+council's adoption of the National Underground Asset Register, from the
+early pilot in 2023 onwards. I championed NUAR internally across highways
+and related teams, and ran short, practical training sessions. The council
+now has almost 150 active users across highways, drainage, street works and
+planning, and in some cases it has saved weeks of waiting for buried-asset
+plans.
+
+---
+
 ## GeoPlace Exemplar Awards — Platinum, five consecutive years
 
 Durham County Council has held **Platinum standard for street data every

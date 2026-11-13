@@ -97,6 +97,10 @@ automated process gets it wrong.
 
 ## Recognition
 
+- **Ordnance Survey NUAR case study**, October 2026 —
+  [Durham County Council's NUAR
+  rollout](https://www.nuar.uk/news/durham-county-council-case-study),
+  which I championed internally and trained teams on
 - **GeoPlace Exemplar Award — Platinum**, every year from 2022 to 2026
 - **Strictly Highways 2024** — Highly Commended, DfT Special Recognition
   Awards, Best Use of Technology (LCRIG)
