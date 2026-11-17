@@ -86,12 +86,12 @@ An AI assistant for street works guidance — originally a custom-trained
 chatbot built on a hand-assembled corpus in 2023, now API-based.
 
 ## [GRID](/projects/grid/)
-FastAPI · PostGIS · Redis · React Native · Geospatial
+FastAPI · PostGIS · React Native · OpenStreetMap · Geospatial
 {: .tags}
 
 A grimdark location-based gang-territory game — Pokémon GO by way of
-Necromunda and Cyberpunk 2077. Working prototype, built mostly to learn how
-games like this operate under the surface.
+Necromunda and Cyberpunk 2077. An Android prototype built on real places
+from OpenStreetMap, kept clear of schools, homes and other sensitive sites.
 
 ## [Shadowband](/projects/shadowband/)
 Android · Kotlin · Signal processing · TensorFlow Lite · MediaPipe

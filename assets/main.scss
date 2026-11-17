@@ -209,6 +209,34 @@ video.clip {
   .photo-row img { height: auto; width: 100%; }
 }
 
+video.clip.portrait { max-width: 320px; }
+
+/* Phone screenshots: four across, two by two on small screens */
+.screens {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .9rem;
+  margin: 1.4rem 0;
+  align-items: flex-start;
+}
+.screens figure {
+  flex: 1 1 140px;
+  max-width: 200px;
+  margin: 0;
+}
+.screens img {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  display: block;
+}
+.screens figcaption {
+  font-size: .8rem;
+  line-height: 1.35;
+  color: #6a737d;
+  margin-top: .4rem;
+}
+
 /* ---- Project tags (Projects listing) ----------------------------- */
 
 .tags {
