@@ -101,6 +101,14 @@ Android app for paranormal investigation, including low-frequency audio
 detection. Shipped, maintained, over 7,000 downloads at 4.2 stars
 [on Google Play](https://play.google.com/store/apps/details?id=com.ferguson.shadowband).
 
+## [Robot Head](/projects/robot-head/)
+Raspberry Pi · Computer vision · 3D printing · Hardware
+{: .tags}
+
+A Raspberry Pi pan-tilt camera head that follows movement, on custom
+3D-printed parts designed with Claude. Early days of a small, self-contained
+learning robot.
+
 ## [BanxStrike](/projects/banxstrike/)
 Unity · C# · Game development
 {: .tags}

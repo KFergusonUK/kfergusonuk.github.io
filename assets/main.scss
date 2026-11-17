@@ -181,6 +181,34 @@ code {
   display: block;
 }
 
+/* ---- Project clips and photo rows -------------------------------- */
+
+video.clip {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  margin: 1rem 0 .4rem;
+  display: block;
+  background: #000;
+}
+
+.photo-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .9rem;
+  margin: 1.4rem 0;
+  align-items: flex-start;
+}
+.photo-row img {
+  height: 220px;
+  width: auto;
+  border-radius: 3px;
+  display: block;
+}
+@media (max-width: 600px) {
+  .photo-row img { height: auto; width: 100%; }
+}
+
 /* ---- Project tags (Projects listing) ----------------------------- */
 
 .tags {
